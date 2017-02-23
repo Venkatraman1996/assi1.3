@@ -1,0 +1,33 @@
+
+1. pwd: this command prints the working directory path right from the root
+       
+
+2. vi:to summon virtual editor.
+
+
+3. touch:it is used to create empty files and also used to change timestamps on the files
+
+
+4. mkdir:it is used to create directories on the file system
+
+5. rm:it is used to remove files in the directories or the directory itself.
+
+6. ls:it is used to display the directory contents of the files or directories.
+
+7. echo:it is used to display a output status to a file or a screen
+
+8. cat:it is used to create single or multiple files and also to concatenate files
+
+9. who:it is used to display users who are currently logged in your server.
+
+10. cd:It is used to change the current directory.
+
+11. date:it is used to display the system date and time.
+
+12. cal:dispalys the calender of this month.
+
+13. mv:it is used to move or rename a file.
+
+14. cp:it is used to copy files or directories.
+
+15. which:it returns the pathnames of the files (or links) which would be executed in the current environment. 
